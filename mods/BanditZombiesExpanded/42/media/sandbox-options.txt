@@ -1,0 +1,7 @@
+VERSION = 1,
+
+option LYNCH.BanditSpawnChance 
+{
+    type = double, min = 0.00, max = 5, default = 0.20,
+    page = LYNCH, translation = LYNCH_BanditSpawnChance,
+}

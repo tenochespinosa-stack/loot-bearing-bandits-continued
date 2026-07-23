@@ -1,0 +1,563 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<outfitManager>
+	<m_FemaleOutfits>
+		<m_Name>L_BanditENH</m_Name>
+		<m_Guid>afb47c8b-33b5-40f2-9a75-144243f47f95</m_Guid>
+		<m_AllowPantsHue>false</m_AllowPantsHue>
+		<m_items>
+			<itemGUID>ebea15c8-99b3-4e20-905b-d22cf82b8217</itemGUID> <!-- Socks-->
+		</m_items>
+		<m_items>
+			<itemGUID>6fed6e2b-3a72-4bac-aac5-09585984493d</itemGUID> <!-- Shoes-->
+			<subItems>
+				<itemGUID>227cb2d5-05a5-44ed-872d-ac4ca16e80bc</itemGUID><!-- Army Boots-->
+			</subItems>
+			<subItems>
+				<itemGUID>09bc4da2-6038-4575-985b-c27b8dbfef6c</itemGUID><!-- Riding Boots-->
+			</subItems>
+			<subItems>
+				<itemGUID>fb7e0ff8-73e5-4344-8942-8cc097ebeeb9</itemGUID><!-- Boots - Rubber-->
+			</subItems>
+		</m_items>
+		<m_items>
+			<probability>0.9</probability>
+			<itemGUID>92efbe27-baa3-4e7f-bc7c-cb4713d23c14</itemGUID><!-- Gas Mask-->
+			<subItems>
+				<itemGUID>1d070816-cfec-4d5d-820d-105c514251eb</itemGUID><!--Dust Mask-->
+			</subItems>
+			<subItems>
+				<itemGUID>6ef9ba72-73e6-4373-8d29-6beddf2274a5</itemGUID><!--Surgical Mask-->
+			</subItems>
+			<subItems>
+				<itemGUID>ab824ec6-ac00-47b3-a613-89d8456e2333</itemGUID><!-- Half Mask Respirator-->
+			</subItems>
+			<subItems>
+				<itemGUID>4484a8d7-0db8-4204-a812-3a2a49fa7a5c</itemGUID><!-- Metal Mask-->
+			</subItems>
+			<subItems>
+				<itemGUID>1bd52396-c99d-440a-8f2d-7808ce1cdd57</itemGUID><!-- Welder Mask-->
+			</subItems>
+			<subItems>
+				<itemGUID>22c8fd40-4c25-4e82-9353-f70aa582611a</itemGUID><!-- Balaclava-->
+			</subItems>
+		</m_items>
+		<m_items>
+			<probability>0.6</probability>
+			<itemGUID>0d7e7bf1-e6ea-4915-a87a-4bbbb687718e</itemGUID><!-- Bullet Proof Vest Civilian-->
+			<subItems>
+				<itemGUID>c9381d1c-2d50-4bd0-9d38-076314141a34</itemGUID><!--Hunting Vest Camo-->
+			</subItems>
+			<subItems>
+				<itemGUID>eaa559e6-7b6c-4cf1-bf95-7e910a9b1eb8</itemGUID><!--Hunting Vest Camo Green-->
+			</subItems>
+			<subItems>
+				<itemGUID>2f44ec3e-5711-492e-ba8f-e75cca3a4dc6</itemGUID><!--Hunting Vest Grey-->
+			</subItems>
+			<subItems>
+				<itemGUID>1bdd38ba-b451-4238-9de5-2fe47f1fa6b9</itemGUID><!--Hunting Vest with Patches-->
+			</subItems>
+			<subItems>
+				<itemGUID>20af1150-f497-47df-893b-263f6bc4bcf6</itemGUID><!--Leather Vest-->
+			</subItems>
+		</m_items>
+		<m_items>
+			<probability>0.6</probability>
+			<itemGUID>6d702d88-4ca0-4bcb-9aee-d88f2be29e69</itemGUID><!-- Glasses Normal-->
+			<subItems>
+				<itemGUID>9df22d1f-96cd-4d2c-88f2-4e7423d93649</itemGUID><!-- Glasses Reading-->
+			</subItems>
+			<subItems>
+				<itemGUID>a5643cfa-9468-4815-8057-d192730b9344</itemGUID><!-- Shooting Glasses-->
+			</subItems>
+			<subItems>
+				<itemGUID>c05cf7a7-f704-43ce-a6bf-5eee59d96a5c</itemGUID><!-- Safety Glasses-->
+			</subItems>
+		</m_items>
+		<m_items>
+			<itemGUID>51851e1a-3c3d-473d-8894-8cde0770b645</itemGUID><!-- Hoody down White Tint-->
+			<subItems>
+				<itemGUID>5574c07e-1381-49d8-a0ba-40e5b2cf55cd</itemGUID><!-- Jumper Polo Neck-->
+			</subItems>
+			<subItems>
+				<itemGUID>88b27ecc-8a00-4d1a-882e-1ab4f4a46350</itemGUID><!-- Lumber Jack Shirt-->
+			</subItems>
+			<subItems>
+				<itemGUID>7a5f7b89-9de9-4c05-afb6-e62dca97b8a2</itemGUID><!--Jumper Roundneck-->
+			</subItems>
+			<subItems>
+				<itemGUID>c1d742f9-d5a5-4c5f-99b1-8ee43c131f0f</itemGUID><!--Jacket Padded Down-->
+			</subItems>	
+		</m_items>
+		<m_items>
+			<probability>0.8</probability>
+			<itemGUID>131b62ae-646d-41c2-afb6-2935fb3ea494</itemGUID><!-- Tied Bandanna -->
+			<subItems>
+				<itemGUID>e29ea6f7-5cff-40e5-9dd0-f80fef8276a7</itemGUID><!-- Beaney -->
+			</subItems>
+			<subItems>
+				<itemGUID>061cfa05-c6e2-4dcd-8737-ab7af41e0750</itemGUID><!-- Boonie Hat Green -->
+			</subItems>
+			<subItems>
+				<itemGUID>a2e8922f-f703-4d0f-9c3e-d72bc373054e</itemGUID><!--Bucket Hat-->
+			</subItems>
+			<subItems>
+				<itemGUID>7dead2df-7a17-4c12-a487-40f613d26c69</itemGUID><!--Baseball Cap - Army-->
+			</subItems>
+			<subItems>
+				<itemGUID>e80e7c12-87c9-4f18-9ab0-c0270c580252</itemGUID><!--Baseball Cap - Army-->
+			</subItems>
+			<subItems>
+				<itemGUID>8ccdd91f-9b12-419f-adea-6fd024e49cd5</itemGUID><!--Helmet - Hockey-->
+			</subItems>
+			<subItems>
+				<itemGUID>68a580d4-026b-4d71-b754-5764bd9b5409</itemGUID><!--Hat - Fisherman-->
+			</subItems>
+			<subItems>
+				<itemGUID>9709be80-dbd9-4f98-90a6-aaab8e87cd28</itemGUID><!--Helmet - Military-->
+			</subItems>
+		</m_items>
+		<m_items>
+			<itemGUID>211f2d80-28ca-4c53-b6e7-b5d804f89491</itemGUID><!-- Padded Pants-->
+			<subItems>
+				<itemGUID>d325b65d-497d-4c77-8919-74a65172cb94</itemGUID><!--Camo Pants Green-->
+			</subItems>
+			<subItems>
+				<itemGUID>8973893f-f324-4cdb-a32b-43cd0378174f</itemGUID><!--Jeans Baggy-->
+			</subItems>
+			<subItems>
+				<itemGUID>94c07af5-2e55-4a1d-9637-6b2326578e7f</itemGUID><!--Camo Pants Desert-->
+			</subItems>
+			<subItems>
+				<itemGUID>2424958a-64aa-4494-aeba-ad05a08d5917</itemGUID><!--Camo Pants Urban-->
+			</subItems>
+			<subItems>
+				<itemGUID>229b23f6-8e8f-4f16-837b-4fe950c48bfc</itemGUID><!--Denim Pants-->
+			</subItems>
+			<subItems>
+				<itemGUID>26d63da5-2e5f-4244-983a-23cde64a2a78</itemGUID><!--Military Pants - Olive Drab-->
+			</subItems>		
+		</m_items>
+		<m_items>
+			<probability>0.9</probability>
+			<itemGUID>2b0756ac-57f3-415e-bfed-24b28d1ca4d6</itemGUID><!-- Leather Gloves-->
+			<subItems>
+				<itemGUID>096acc98-7ac1-4867-82dd-af77afb6a87b</itemGUID><!-- Leather Gloves Black-->
+			</subItems>
+			<subItems>
+				<itemGUID>baec3522-a05d-4b62-ac11-24898d50f5f5</itemGUID><!-- Fingerless Gloves - Leather-->
+			</subItems>
+			<subItems>
+				<itemGUID>b6c61577-9736-4e16-8d62-b80549085789</itemGUID><!-- Rubber Gloves-->
+			</subItems>
+		</m_items>
+		<m_items>
+			<probability>0.9</probability>
+			<itemGUID>264e5345-105f-40a3-8ac0-48bf3e91ffd4</itemGUID><!--Bandoleer Shotgun-->
+			<subItems>
+				<itemGUID>15514b21-1567-4a0b-a171-9740ee9b7b3a</itemGUID><!--Bandoleer Rifle-->
+			</subItems>
+		</m_items>
+		<m_items>
+			<probability>0.1</probability>
+			<itemGUID>502bfde1-2263-4368-aded-6889e964bbeb</itemGUID><!--Poncho Green-->
+			<subItems>
+				<itemGUID>2cfe07c1-329a-479a-9974-c73742e13be1</itemGUID><!--Poncho Green Down-->
+			</subItems>
+			<subItems>
+				<itemGUID>67089f74-7ba1-467e-b325-d5245e35cf08</itemGUID><!--Poncho Yellow-->
+			</subItems>
+			<subItems>
+				<itemGUID>d788ff7a-361a-4830-a911-a838f53c7efe</itemGUID><!--Poncho Yellow Down-->
+			</subItems>					
+		</m_items>
+		<m_items>
+			<itemGUID>0eb60cd5-ed6a-4806-ac60-376c77af64cf</itemGUID> <!-- Hiking Bag-->
+			<subItems>	
+				<itemGUID>d1146e1e-1e80-4344-bfe0-2be1e93e022c</itemGUID> <!-- Big Hiking Bag-->
+			</subItems>	
+			<subItems>	
+				<itemGUID>9e68c5f7-4396-46b3-b1d5-1d012da11189</itemGUID> <!-- Army Duffel Bag-->
+			</subItems>
+			<subItems>	
+				<itemGUID>d1859d8a-1857-4854-9f24-30affdbade34</itemGUID> <!-- Duffel Bag-->
+			</subItems>
+		</m_items>
+		<m_items>
+			<probability>0.1</probability>
+			<itemGUID>c2d9211a-a0c5-475d-8fa6-681a8b809f26</itemGUID> <!-- Survivor Bag-->
+			<subItems>	
+				<itemGUID>e5e131ff-bc65-4b94-9bc1-b70e8f99e68d</itemGUID> <!-- Military Bag-->
+			</subItems>
+			<subItems>	
+				<itemGUID>015a10b1-6944-4792-8262-dc3d2aac67a9</itemGUID> <!-- Military Bag-->
+			</subItems>
+		</m_items>
+		<m_items>
+			<probability>0.8</probability>
+			<itemGUID>5fc22466-2942-4ba1-8c33-2a8528b73021</itemGUID><!-- Watch Classic Black-->
+			<subItems>
+				<itemGUID>ce1a8520-7120-432e-8a3a-aa7b3094f0bb</itemGUID><!-- Watch Classic Brown-->
+			</subItems>
+			<subItems>
+				<itemGUID>c7cc655b-284a-4087-85a6-d7c116385fb0</itemGUID><!-- Watch Digital Black-->
+			</subItems>
+			<subItems>
+				<itemGUID>0383956a-3fbd-4001-9749-69e2ba70b134</itemGUID><!-- Watch Digital Red-->
+			</subItems>
+		</m_items>
+		<m_items>
+			<probability>0.3</probability>
+			<itemGUID>86ffb73b-9b5b-4ffa-a46f-49846b1e9731</itemGUID><!-- Long Johns-->
+			<subItems>
+				<itemGUID>efcd54b1-4c6f-4548-af75-99e46606978c</itemGUID><!-- Burlap Long Johns-->
+			</subItems>
+		</m_items>
+		<m_items>
+			<probability>0.3</probability>
+			<itemGUID>be23d492-87ab-427a-a6e8-d399a1dbaf1a</itemGUID><!-- Scarf-->
+			<subItems>
+				<itemGUID>2ad4e7f8-06a3-4681-a44a-9f566433986c</itemGUID><!-- Scarf-->
+			</subItems>
+			<subItems>
+				<itemGUID>1f5ca3c2-49b1-4a98-aec3-6e542ad09f3e</itemGUID><!-- Scarf-->
+			</subItems>
+			<subItems>
+				<itemGUID>de34608d-c152-4944-8f42-ea4ea6f067b2</itemGUID><!-- Scarf-->
+			</subItems>
+		</m_items>
+		<m_items>
+			<probability>0.4</probability>
+			<itemGUID>296ccf54-c7f4-445a-bb30-c547c73db54d</itemGUID><!-- Magazine Limb Armor-->
+			<subItems>
+				<itemGUID>f62f2924-10d9-4a3a-a062-72d68d48e60c</itemGUID><!-- Wooden Thing Armor-->
+			</subItems>
+			<subItems>
+				<itemGUID>6694b783-fe61-410b-b0d1-1160d4b5512e</itemGUID><!-- Scrap Metal Thigh Armor-->
+			</subItems>
+		</m_items>
+		<m_items>
+			<probability>0.4</probability>
+			<itemGUID>106d5d04-fa79-46e1-8ab9-ea7154cbee80</itemGUID><!-- Magazine Limb Armor-->
+			<subItems>
+				<itemGUID>fee9047d-4d35-496d-a005-49c1c38fc1bf</itemGUID><!-- Wooden Thing Armor-->
+			</subItems>
+			<subItems>
+				<itemGUID>f8619357-26b8-4cee-81ee-a995af088d05</itemGUID><!-- Scrap Metal Thigh Armor-->
+			</subItems>
+		</m_items>
+		<m_items>
+			<probability>0.4</probability>
+			<itemGUID>f304884d-37b1-49b6-8861-677c4b95c34b</itemGUID><!-- Leather Forearm Armor-->
+			<subItems>
+				<itemGUID>a6107c56-5420-4b1a-9e3d-9d346440172d</itemGUID><!-- Wooden Forearm Armor-->
+			</subItems>
+			<subItems>
+				<itemGUID>a243dd83-5645-4324-b262-2b757e48a9fe</itemGUID><!-- Scrap Metal Thigh Armor-->
+			</subItems>
+		</m_items>
+		<m_items>
+			<probability>0.4</probability>
+			<itemGUID>a623375f-f82d-4674-b608-e3a78baec22a</itemGUID><!-- Leather Forearm Armor-->
+			<subItems>
+				<itemGUID>eaee16ba-bac9-4886-b190-bc7a3973d141</itemGUID><!-- Wooden Forearm Armor-->
+			</subItems>
+			<subItems>
+				<itemGUID>49481bc4-0ba0-45e3-b1ff-bc515adcce70</itemGUID><!-- Scrap Metal Thigh Armor-->
+			</subItems>
+		</m_items>
+		<m_items>
+			<probability>0.4</probability>
+			<itemGUID>0d7e7bf1-e6ea-4915-a87a-4bbbb687718e</itemGUID><!-- Bulletproof Vest - Civilian-->
+			<subItems>
+				<itemGUID>1a437dbb-cee9-4013-8e8a-e158acf98b62</itemGUID><!-- Bulletproof Vest - Military-->
+			</subItems>
+			<subItems>
+				<itemGUID>fcbdd3eb-33ba-4a99-ac0d-e2da3442db64</itemGUID><!-- Bulletproof Vest - Military-->
+			</subItems>
+			<subItems>
+				<itemGUID>05a0bb71-b246-4349-84ee-499e167b302a</itemGUID><!-- Bulletproof Vest - Military-->
+			</subItems>
+		</m_items>		
+	</m_FemaleOutfits>
+
+	<m_MaleOutfits>
+		<m_Name>L_BanditENH</m_Name>
+		<m_Guid>df5d7419-4b65-4f93-ae32-ec5c070656f5</m_Guid>
+		<m_AllowPantsHue>false</m_AllowPantsHue>
+		<m_items>
+			<itemGUID>ebea15c8-99b3-4e20-905b-d22cf82b8217</itemGUID> <!-- Socks-->
+		</m_items>
+		<m_items>
+			<itemGUID>6fed6e2b-3a72-4bac-aac5-09585984493d</itemGUID> <!-- Shoes-->
+			<subItems>
+				<itemGUID>227cb2d5-05a5-44ed-872d-ac4ca16e80bc</itemGUID><!-- Army Boots-->
+			</subItems>
+			<subItems>
+				<itemGUID>09bc4da2-6038-4575-985b-c27b8dbfef6c</itemGUID><!-- Riding Boots-->
+			</subItems>
+			<subItems>
+				<itemGUID>fb7e0ff8-73e5-4344-8942-8cc097ebeeb9</itemGUID><!-- Boots - Rubber-->
+			</subItems>
+		</m_items>
+		<m_items>
+			<probability>0.9</probability>
+			<itemGUID>92efbe27-baa3-4e7f-bc7c-cb4713d23c14</itemGUID><!-- Gas Mask-->
+			<subItems>
+				<itemGUID>1d070816-cfec-4d5d-820d-105c514251eb</itemGUID><!--Dust Mask-->
+			</subItems>
+			<subItems>
+				<itemGUID>6ef9ba72-73e6-4373-8d29-6beddf2274a5</itemGUID><!--Surgical Mask-->
+			</subItems>
+			<subItems>
+				<itemGUID>ab824ec6-ac00-47b3-a613-89d8456e2333</itemGUID><!-- Half Mask Respirator-->
+			</subItems>
+			<subItems>
+				<itemGUID>4484a8d7-0db8-4204-a812-3a2a49fa7a5c</itemGUID><!-- Metal Mask-->
+			</subItems>
+			<subItems>
+				<itemGUID>1bd52396-c99d-440a-8f2d-7808ce1cdd57</itemGUID><!-- Welder Mask-->
+			</subItems>
+			<subItems>
+				<itemGUID>22c8fd40-4c25-4e82-9353-f70aa582611a</itemGUID><!-- Balaclava-->
+			</subItems>
+		</m_items>
+		<m_items>
+			<probability>0.6</probability>
+			<itemGUID>0d7e7bf1-e6ea-4915-a87a-4bbbb687718e</itemGUID><!-- Bullet Proof Vest Civilian-->
+			<subItems>
+				<itemGUID>c9381d1c-2d50-4bd0-9d38-076314141a34</itemGUID><!--Hunting Vest Camo-->
+			</subItems>
+			<subItems>
+				<itemGUID>eaa559e6-7b6c-4cf1-bf95-7e910a9b1eb8</itemGUID><!--Hunting Vest Camo Green-->
+			</subItems>
+			<subItems>
+				<itemGUID>2f44ec3e-5711-492e-ba8f-e75cca3a4dc6</itemGUID><!--Hunting Vest Grey-->
+			</subItems>
+			<subItems>
+				<itemGUID>1bdd38ba-b451-4238-9de5-2fe47f1fa6b9</itemGUID><!--Hunting Vest with Patches-->
+			</subItems>
+			<subItems>
+				<itemGUID>20af1150-f497-47df-893b-263f6bc4bcf6</itemGUID><!--Leather Vest-->
+			</subItems>
+		</m_items>
+		<m_items>
+			<probability>0.6</probability>
+			<itemGUID>6d702d88-4ca0-4bcb-9aee-d88f2be29e69</itemGUID><!-- Glasses Normal-->
+			<subItems>
+				<itemGUID>9df22d1f-96cd-4d2c-88f2-4e7423d93649</itemGUID><!-- Glasses Reading-->
+			</subItems>
+			<subItems>
+				<itemGUID>a5643cfa-9468-4815-8057-d192730b9344</itemGUID><!-- Shooting Glasses-->
+			</subItems>
+			<subItems>
+				<itemGUID>c05cf7a7-f704-43ce-a6bf-5eee59d96a5c</itemGUID><!-- Safety Glasses-->
+			</subItems>
+		</m_items>
+		<m_items>
+			<itemGUID>51851e1a-3c3d-473d-8894-8cde0770b645</itemGUID><!-- Hoody down White Tint-->
+			<subItems>
+				<itemGUID>5574c07e-1381-49d8-a0ba-40e5b2cf55cd</itemGUID><!-- Jumper Polo Neck-->
+			</subItems>
+			<subItems>
+				<itemGUID>88b27ecc-8a00-4d1a-882e-1ab4f4a46350</itemGUID><!-- Lumber Jack Shirt-->
+			</subItems>
+			<subItems>
+				<itemGUID>7a5f7b89-9de9-4c05-afb6-e62dca97b8a2</itemGUID><!--Jumper Roundneck-->
+			</subItems>
+			<subItems>
+				<itemGUID>c1d742f9-d5a5-4c5f-99b1-8ee43c131f0f</itemGUID><!--Jacket Padded Down-->
+			</subItems>	
+		</m_items>
+		<m_items>
+			<probability>0.8</probability>
+			<itemGUID>131b62ae-646d-41c2-afb6-2935fb3ea494</itemGUID><!-- Tied Bandanna -->
+			<subItems>
+				<itemGUID>e29ea6f7-5cff-40e5-9dd0-f80fef8276a7</itemGUID><!-- Beaney -->
+			</subItems>
+			<subItems>
+				<itemGUID>061cfa05-c6e2-4dcd-8737-ab7af41e0750</itemGUID><!-- Boonie Hat Green -->
+			</subItems>
+			<subItems>
+				<itemGUID>a2e8922f-f703-4d0f-9c3e-d72bc373054e</itemGUID><!--Bucket Hat-->
+			</subItems>
+			<subItems>
+				<itemGUID>7dead2df-7a17-4c12-a487-40f613d26c69</itemGUID><!--Baseball Cap - Army-->
+			</subItems>
+			<subItems>
+				<itemGUID>e80e7c12-87c9-4f18-9ab0-c0270c580252</itemGUID><!--Baseball Cap - Army-->
+			</subItems>
+			<subItems>
+				<itemGUID>8ccdd91f-9b12-419f-adea-6fd024e49cd5</itemGUID><!--Helmet - Hockey-->
+			</subItems>
+			<subItems>
+				<itemGUID>68a580d4-026b-4d71-b754-5764bd9b5409</itemGUID><!--Hat - Fisherman-->
+			</subItems>
+			<subItems>
+				<itemGUID>9709be80-dbd9-4f98-90a6-aaab8e87cd28</itemGUID><!--Helmet - Military-->
+			</subItems>
+		</m_items>
+		<m_items>
+			<itemGUID>211f2d80-28ca-4c53-b6e7-b5d804f89491</itemGUID><!-- Padded Pants-->
+			<subItems>
+				<itemGUID>d325b65d-497d-4c77-8919-74a65172cb94</itemGUID><!--Camo Pants Green-->
+			</subItems>
+			<subItems>
+				<itemGUID>8973893f-f324-4cdb-a32b-43cd0378174f</itemGUID><!--Jeans Baggy-->
+			</subItems>
+			<subItems>
+				<itemGUID>94c07af5-2e55-4a1d-9637-6b2326578e7f</itemGUID><!--Camo Pants Desert-->
+			</subItems>
+			<subItems>
+				<itemGUID>2424958a-64aa-4494-aeba-ad05a08d5917</itemGUID><!--Camo Pants Urban-->
+			</subItems>
+			<subItems>
+				<itemGUID>229b23f6-8e8f-4f16-837b-4fe950c48bfc</itemGUID><!--Denim Pants-->
+			</subItems>
+			<subItems>
+				<itemGUID>26d63da5-2e5f-4244-983a-23cde64a2a78</itemGUID><!--Military Pants - Olive Drab-->
+			</subItems>		
+		</m_items>
+		<m_items>
+			<probability>0.9</probability>
+			<itemGUID>2b0756ac-57f3-415e-bfed-24b28d1ca4d6</itemGUID><!-- Leather Gloves-->
+			<subItems>
+				<itemGUID>096acc98-7ac1-4867-82dd-af77afb6a87b</itemGUID><!-- Leather Gloves Black-->
+			</subItems>
+			<subItems>
+				<itemGUID>baec3522-a05d-4b62-ac11-24898d50f5f5</itemGUID><!-- Fingerless Gloves - Leather-->
+			</subItems>
+			<subItems>
+				<itemGUID>b6c61577-9736-4e16-8d62-b80549085789</itemGUID><!-- Rubber Gloves-->
+			</subItems>
+		</m_items>
+		<m_items>
+			<probability>0.9</probability>
+			<itemGUID>264e5345-105f-40a3-8ac0-48bf3e91ffd4</itemGUID><!--Bandoleer Shotgun-->
+			<subItems>
+				<itemGUID>15514b21-1567-4a0b-a171-9740ee9b7b3a</itemGUID><!--Bandoleer Rifle-->
+			</subItems>
+		</m_items>
+		<m_items>
+			<probability>0.1</probability>
+			<itemGUID>502bfde1-2263-4368-aded-6889e964bbeb</itemGUID><!--Poncho Green-->
+			<subItems>
+				<itemGUID>2cfe07c1-329a-479a-9974-c73742e13be1</itemGUID><!--Poncho Green Down-->
+			</subItems>
+			<subItems>
+				<itemGUID>67089f74-7ba1-467e-b325-d5245e35cf08</itemGUID><!--Poncho Yellow-->
+			</subItems>
+			<subItems>
+				<itemGUID>d788ff7a-361a-4830-a911-a838f53c7efe</itemGUID><!--Poncho Yellow Down-->
+			</subItems>					
+		</m_items>
+		<m_items>
+			<itemGUID>0eb60cd5-ed6a-4806-ac60-376c77af64cf</itemGUID> <!-- Hiking Bag-->
+			<subItems>	
+				<itemGUID>d1146e1e-1e80-4344-bfe0-2be1e93e022c</itemGUID> <!-- Big Hiking Bag-->
+			</subItems>	
+			<subItems>	
+				<itemGUID>9e68c5f7-4396-46b3-b1d5-1d012da11189</itemGUID> <!-- Army Duffel Bag-->
+			</subItems>
+			<subItems>	
+				<itemGUID>d1859d8a-1857-4854-9f24-30affdbade34</itemGUID> <!-- Duffel Bag-->
+			</subItems>
+		</m_items>
+		<m_items>
+			<probability>0.1</probability>
+			<itemGUID>c2d9211a-a0c5-475d-8fa6-681a8b809f26</itemGUID> <!-- Survivor Bag-->
+			<subItems>	
+				<itemGUID>e5e131ff-bc65-4b94-9bc1-b70e8f99e68d</itemGUID> <!-- Military Bag-->
+			</subItems>
+			<subItems>	
+				<itemGUID>015a10b1-6944-4792-8262-dc3d2aac67a9</itemGUID> <!-- Military Bag-->
+			</subItems>
+		</m_items>
+		<m_items>
+			<probability>0.8</probability>
+			<itemGUID>5fc22466-2942-4ba1-8c33-2a8528b73021</itemGUID><!-- Watch Classic Black-->
+			<subItems>
+				<itemGUID>ce1a8520-7120-432e-8a3a-aa7b3094f0bb</itemGUID><!-- Watch Classic Brown-->
+			</subItems>
+			<subItems>
+				<itemGUID>c7cc655b-284a-4087-85a6-d7c116385fb0</itemGUID><!-- Watch Digital Black-->
+			</subItems>
+			<subItems>
+				<itemGUID>0383956a-3fbd-4001-9749-69e2ba70b134</itemGUID><!-- Watch Digital Red-->
+			</subItems>
+		</m_items>
+		<m_items>
+			<probability>0.3</probability>
+			<itemGUID>86ffb73b-9b5b-4ffa-a46f-49846b1e9731</itemGUID><!-- Long Johns-->
+			<subItems>
+				<itemGUID>efcd54b1-4c6f-4548-af75-99e46606978c</itemGUID><!-- Burlap Long Johns-->
+			</subItems>
+		</m_items>
+		<m_items>
+			<probability>0.3</probability>
+			<itemGUID>be23d492-87ab-427a-a6e8-d399a1dbaf1a</itemGUID><!-- Scarf-->
+			<subItems>
+				<itemGUID>2ad4e7f8-06a3-4681-a44a-9f566433986c</itemGUID><!-- Scarf-->
+			</subItems>
+			<subItems>
+				<itemGUID>1f5ca3c2-49b1-4a98-aec3-6e542ad09f3e</itemGUID><!-- Scarf-->
+			</subItems>
+			<subItems>
+				<itemGUID>de34608d-c152-4944-8f42-ea4ea6f067b2</itemGUID><!-- Scarf-->
+			</subItems>
+		</m_items>
+		<m_items>
+			<probability>0.4</probability>
+			<itemGUID>296ccf54-c7f4-445a-bb30-c547c73db54d</itemGUID><!-- Magazine Limb Armor-->
+			<subItems>
+				<itemGUID>f62f2924-10d9-4a3a-a062-72d68d48e60c</itemGUID><!-- Wooden Thing Armor-->
+			</subItems>
+			<subItems>
+				<itemGUID>6694b783-fe61-410b-b0d1-1160d4b5512e</itemGUID><!-- Scrap Metal Thigh Armor-->
+			</subItems>
+		</m_items>
+		<m_items>
+			<probability>0.4</probability>
+			<itemGUID>106d5d04-fa79-46e1-8ab9-ea7154cbee80</itemGUID><!-- Magazine Limb Armor-->
+			<subItems>
+				<itemGUID>fee9047d-4d35-496d-a005-49c1c38fc1bf</itemGUID><!-- Wooden Thing Armor-->
+			</subItems>
+			<subItems>
+				<itemGUID>f8619357-26b8-4cee-81ee-a995af088d05</itemGUID><!-- Scrap Metal Thigh Armor-->
+			</subItems>
+		</m_items>
+		<m_items>
+			<probability>0.4</probability>
+			<itemGUID>f304884d-37b1-49b6-8861-677c4b95c34b</itemGUID><!-- Leather Forearm Armor-->
+			<subItems>
+				<itemGUID>a6107c56-5420-4b1a-9e3d-9d346440172d</itemGUID><!-- Wooden Forearm Armor-->
+			</subItems>
+			<subItems>
+				<itemGUID>a243dd83-5645-4324-b262-2b757e48a9fe</itemGUID><!-- Scrap Metal Thigh Armor-->
+			</subItems>
+		</m_items>
+		<m_items>
+			<probability>0.4</probability>
+			<itemGUID>a623375f-f82d-4674-b608-e3a78baec22a</itemGUID><!-- Leather Forearm Armor-->
+			<subItems>
+				<itemGUID>eaee16ba-bac9-4886-b190-bc7a3973d141</itemGUID><!-- Wooden Forearm Armor-->
+			</subItems>
+			<subItems>
+				<itemGUID>49481bc4-0ba0-45e3-b1ff-bc515adcce70</itemGUID><!-- Scrap Metal Thigh Armor-->
+			</subItems>
+		</m_items>
+		<m_items>
+			<probability>0.4</probability>
+			<itemGUID>0d7e7bf1-e6ea-4915-a87a-4bbbb687718e</itemGUID><!-- Bulletproof Vest - Civilian-->
+			<subItems>
+				<itemGUID>1a437dbb-cee9-4013-8e8a-e158acf98b62</itemGUID><!-- Bulletproof Vest - Military-->
+			</subItems>
+			<subItems>
+				<itemGUID>fcbdd3eb-33ba-4a99-ac0d-e2da3442db64</itemGUID><!-- Bulletproof Vest - Military-->
+			</subItems>
+			<subItems>
+				<itemGUID>05a0bb71-b246-4349-84ee-499e167b302a</itemGUID><!-- Bulletproof Vest - Military-->
+			</subItems>
+		</m_items>
+	</m_MaleOutfits>
+	
+</outfitManager>

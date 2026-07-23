@@ -1,0 +1,5 @@
+Sandbox_EN = {
+	Sandbox_LYNCH = "Bandit Zombies Expanded"
+	Sandbox_LYNCH_BanditSpawnChance = "Bandit Zomboid Spawn Chance"
+	Sandbox_LYNCH_BanditSpawnChance_tooltip = "Sets the spawn rate for the new bandit zomboids (a higher number than the default could affect gameplay and make it too easy)"
+}
